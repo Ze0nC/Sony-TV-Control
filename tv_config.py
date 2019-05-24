@@ -5,13 +5,13 @@ ip = "192.168.10.4"
 mac = "48:e2:44:87:43:d9"
 
 # Client ID
-client_id = "raspberrypidd2"
+client_id = "raspberrypi"
 
 # Nick Name
-nickname = "raspberrypidd2"
+nickname = "raspberrypi"
 
 # ID, Any Number 
-cid = "123452"
+cid = "123456"
 
 # Cookie Name
 cookie_file = "cookie.txt"
