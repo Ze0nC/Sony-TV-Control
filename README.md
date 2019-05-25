@@ -31,6 +31,71 @@ A list of source names is displayed by `python sony_tv_control.py -h`
 ## References
 [http://shimobepapa.hatenadiary.jp/entry/2016/12/18/002916](http://shimobepapa.hatenadiary.jp/entry/2016/12/18/002916)
 
+## Button List
+
+```
+power_off
+volume_down
+volume_up
+mute_toggle
+channel_down
+channel_up
+cursor_down
+cursor_up
+cursor_right
+cursor_left
+cursor_enter
+menu_home
+exit
+return
+display
+guide
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+digit_separator
+enter
+menu_popup
+function_red
+function_yellow
+function_green
+function_blue
+3d
+subtitle
+previous_channel
+help
+sync_menu
+options
+input_toggle
+wide
+sony_entertainment_network
+pause
+play
+stop
+forward
+reverse
+previous
+next
+```
+
+## Source List
+```
+hdmi1
+hdmi2
+hdmi3
+hdmi4
+tv
+mirroring
+```
+
 ## License
 WTFPL
 
