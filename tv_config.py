@@ -1,17 +1,17 @@
 # IP of TV
-ip = "192.168.10.4"
+ip = "192.168.1.1"
 
 # MAC of TV
-mac = "48:e2:44:87:43:d9"
+mac = "00:11:22:33:44:55"
 
 # Client ID
-client_id = "z32raspberrypi"
+client_id = "remote"
 
 # Nick Name
-nickname = "z3raspberrypi"
+nickname = "remote"
 
 # ID, Any Number 
-cid = "123456121"
+cid = "123456"
 
 # Cookie Name
 cookie_file = "cookie.txt"
